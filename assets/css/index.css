@@ -1,0 +1,31 @@
+.bg{
+    width: 100%;
+    height: 24.71rem;
+    background: url(../images/index_bg.png) center no-repeat;
+    background-size: 100% 100%;;
+    position: relative;
+}
+
+.btn_box{
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 2.46rem;
+    margin: auto;
+    width: 4.08rem;
+    height: 0.9rem;
+    background: url(../images/index_btn.png) center no-repeat;
+    background-size: 100% 100%;
+}
+a{
+    display: block;
+    text-align: center;
+    line-height: 0.9rem;
+    color: #fff;
+    font-size: 0.5rem;
+    font-family: "方正综艺简体";
+    letter-spacing: .32rem;
+    text-indent: .32rem;
+    cursor: pointer;
+    text-decoration: none;
+}

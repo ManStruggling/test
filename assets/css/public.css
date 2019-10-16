@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    font-size: 8.7719vw;
+}
+body{
+    width: 100%;
+}
+
+@font-face{
+    font-family: "方正综艺简体";
+    src: url(../font/FZZYJW.TTF);
+}
+@font-face{
+    font-family: "苹方简体";
+    src: url(../font/PingFang_Regular.ttf);
+}

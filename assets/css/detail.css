@@ -1,0 +1,20 @@
+.bg{
+    width: 100%;
+    height: 24.71rem;
+    background: url(../images/detail.png) center no-repeat;
+    background-size: 100% 100%;;
+    position: relative;
+}
+p{
+    position: absolute;
+    top: 10.6rem;
+    left: 0;
+    right: 0;
+    margin: auto;
+    color: #fff;
+    font-family: "苹方简体";
+    font-size: .5rem;
+    text-align: center;
+    letter-spacing: .16rem;
+    font-weight: bold;
+}
